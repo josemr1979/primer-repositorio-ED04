@@ -1,4 +1,13 @@
 package cuentas;
+
+/**
+ * 
+ * @author Jose Martín Rodríguez
+ * @version 1.0
+ * @since 24/03/2021
+ *
+ */
+
 public class CCuenta {
 
 
